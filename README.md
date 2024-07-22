@@ -1,20 +1,19 @@
 # Text Analyzer
-Demo analizzatore testi in TypeScript
+Demo of a text analyzer developed in TypeScript for learning purposes
 
-Sviluppato e testato in Node **20.13.1**
+Developed and tested with Node **20.13.1**
 
-## Installazione
+## Install
 
 > npm install
 
-## Avvio
+## Run
 
 > npm start
-
-Verrà richiesto un path o un url da inserire, un esempio di input testato è la stringa: 
+A path or url will be requested on start, a tested example input is:
 > ```https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt```
 
-## Tests
+## Run Tests
 
 > npm test
 
