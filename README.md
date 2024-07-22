@@ -10,6 +10,7 @@ Developed and tested with Node **20.13.1**
 ## Run
 
 > npm start
+
 A path or url will be requested on start, a tested example input is:
 > ```https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt```
 
